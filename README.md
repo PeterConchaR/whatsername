@@ -3,13 +3,13 @@ whats-er-name - [Kendo UI](http://docs.telerik.com/kendo-ui/mobile/introduction)
 
 The whats-er-name app captures head-shots and names for the purpose of memorizing a group of peoples names (really, can be used to remember any image you to want group and name). I conjured up this application to help me memorize the names of each child on my son's football team. The applications functionality provides a UI to create a group, then enter a name and head shot (taken with camera or pull in a photo already taken) for each person in the group. The point of the application is to create a [sideshow](http://demos.telerik.com/kendo-ui/scrollview/index) of named photos for memorizing faces and names.
 
-This application was created using Kendo UI Mobile widgets and applicaiton tools. It is the example application used in the ["Kendo UI - Opinionated Guide For Building Mobile Apps"](http://codylindley.github.io/Kendo-UI-Opinionated-Guide-For-Building-Mobile-Apps).
+This application was created using Kendo UI Mobile widgets and application tools. It is the example application used in the ["Kendo UI - Opinionated Guide For Building Mobile Apps"](https://github.com/telerik/kendo-ui-mobile-guide).
 
 ## Prerequisites to run/build app
 
 * [NodeJS](http://nodejs.org/) & [NPM](https://www.npmjs.org/) (installed globally)
   * [Bower](http://bower.io/) (installed globally)
-* A browser. Its intented to run on mobile browsers but can run on any browser. Therefore you can immeditally download this code, install all the dependencies, and run/build this application.
+* A browser. Its intended to run on mobile browsers but can run on any browser. Therefore you can immediately download this code, install all the dependencies, and run/build this application.
 
 ## Install npm and bower dependencies
 
